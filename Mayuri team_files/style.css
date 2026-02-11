@@ -1,0 +1,332 @@
+body{
+    background-color: #e7e9ec;
+}
+
+.content_display {
+    padding-right: 20px;
+}
+.text_center{
+    text-align: center;
+    margin: 40px 0px;
+}
+.title_lass{
+	font-size: 36px;
+    font-weight: 500 !important;
+    color: #458dbc;
+}
+.text_center>p{
+    font-size: 15px;
+    font-weight: 500 !important;
+    margin-bottom: 30px;
+}
+
+
+.text_center>h4{
+
+}
+.btn-effet{
+	margin: 6px 6px;
+    font-size: 14px;
+    font-weight: 500 !important;
+}
+.alert-ss{
+    margin: 25px 6px;
+}
+.role_based{
+	color: white;
+    background-color: #6aa3d8;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: 500;
+    border-radius: 30px;
+}
+.project_title{
+    margin-top: 75px;
+    font-size: 25px;
+    font-weight: 500 !important;
+    line-height: 37px;
+    margin-bottom: 26px;
+}
+.btn-pro{
+
+}
+.zoom_badges{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    width: 100% !important;
+	overflow-y: scroll;
+    height: 600px;
+}
+.zooms{
+	position: absolute;
+    right: 30px;
+    top: 22px;
+}
+.fa-search-minus{
+    font-size: 21px;
+    background-color: #cccccc96;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+.fa-search-plus{
+	font-size: 21px;
+    background-color: #cccccc96;
+    padding: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 6px;
+}
+.tree_btn{
+	max-width: 190px;
+}
+.bdg-banner{
+    padding: 35px;
+}
+.bdg-banner h2{
+	line-height: 45px;
+    font-size: 26px;
+    font-weight: 500!important;
+	color: #ffff !important;
+}
+.bdg-banner h6{
+    background: #f5f058;
+    color: #111217;
+}
+.bdg-banner{
+    background-image: url(https://smartinternz.com/assets/guided_projects/images/guided-inn-ban.jpg);
+}
+.sample_project_certificate{
+	border: 1px solid #181a1d;
+	width: 100%;
+}
+.btn-assemnt{
+	margin-top: 6px;
+}
+.btn-opacity{
+	opacity:0.5;	
+}
+.btn-dev{
+    font-weight: 500;
+}
+.dev_divs{
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.dev_divs>p {
+    font-size: 15px;
+    font-weight: 500 !important;
+}
+.dev_divs>h3 {
+    padding-bottom: 2px;
+    font-size: 30px;
+    font-weight: 600 !important;
+    padding-top: 10px;
+}
+.dev_divs>a {
+    font-weight: 500;
+}
+.btn-dev_pop {
+    background-color: #3f4d67;
+    border: 1px solid #3f4d67;
+    font-weight: 500;
+    font-size: 20px;
+}
+.add_scroll{
+}
+.data_formates{
+	font-family: "Montserrat", sans-serif !important;
+	color: #020206c7 !important;
+	background-color: #e7e9ec;
+	padding: 40px;
+    /*font-size: 15px !important;
+   
+    font-weight: 500 !important;
+    text-align: justify;*/
+}
+.data_formates1 h3{
+    font-size: 24px;
+    font-weight: 500 !important;
+    margin: 15px 0px;
+}
+.data_formates ul li{
+	color: #020206c7 !important;
+    display: list-item !important;
+}
+
+.data_formates p{
+	font-family: "Montserrat", sans-serif !important;
+    color: #020206c7 !important;
+    text-align: left !important;
+}
+.data_formates span{
+	font-family: "Montserrat", sans-serif !important;
+	color:#242429a1 !important;
+    text-align: left !important;
+	font-size: 14px !important;
+    font-weight: 500;
+}
+.data_formates font{
+    font-family: "Montserrat", sans-serif !important;
+    color: #242429a1 !important;
+    text-align: left !important;
+    font-size: 14px !important;
+    font-weight: 500;
+}
+.data_formates div{
+    font-family: "Montserrat", sans-serif !important;
+    color: #242429a1 !important;
+    text-align: left !important;
+    font-size: 14px !important;
+    font-weight: 500;
+}
+.data_formates img{
+	width: 100% !important;
+    border: 1px solid #6d6d9b08 !important;
+    margin: 10px 0px !important;
+    padding: 10px 20px;
+    box-shadow: 0 4px 21px 0px #00000099;
+    border-radius: 5px;
+}
+.shot_dis{
+	color: #fff !important;
+    margin-top: 0px !important;
+    line-height: 24px !important;
+}
+.star-ul li{
+	list-style: none !important;
+}
+.guided-inn h6 {
+    color: #ffffff;
+    font-size: 13px;
+    float: left;
+    padding-left: 5px;
+}
+.display_tabels{
+
+}
+.display_tabels tr{
+
+}
+.display_tabels td{
+    padding: 0px !important;
+}
+.guided-inn li{
+	list-style: none !important;
+}
+.star-p {
+    color: #e2b22c !important;
+    font-weight: 600 !important;
+    font-size: 14px !important;
+    margin-top: 2px !important;
+}
+.star-li {
+    float: left;
+}
+.pr-1, .px-1 {
+    padding-right: .25rem!important;
+}
+.star-span {
+    color: #fff;
+    padding-left: 5px;
+    font-weight: 500;
+    font-size: 13px;
+}
+.star-ul{
+	padding-left: 0px;
+}
+.half_star {
+	width: 18px;
+    margin-top: 2px;
+}
+.tech_stack{
+	font-weight: 600 !important;
+    font-size: 20px !important;
+	color: #ffff !important;
+}
+.pt-1, .py-1 {
+    padding-top: .25rem!important;
+}
+.zoom_img{
+    width: 25px;
+    cursor: pointer
+}
+.outer_page{
+    box-shadow: var(--devsite-page-box-shadow,0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15));
+    background-color: #fff;
+    padding: 40px;
+    border-radius: var(--devsite-page-border-radius,2px);
+    border: var(--devsite-page-border,0);
+}
+.project_title_text{
+    color: #2d2828;
+    font-weight: 600 !important;
+    font-size: 20px;
+}
+.milestone_text{
+	color: #2d2828;
+	font-weight: 600!important;
+}
+.activity_title{
+	font-weight: 600 !important;
+    font-size: 25px;
+    color: #2d2828; 
+}
+
+/*       Custome CSs                 */
+	.skill-bg span{
+		overflow: hidden;
+    background-color: #1070ac;
+    padding: 1px 15px;
+    color: #fff;
+    margin-right: 3px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 23px;
+    line-height: 2;
+    display: inline-flex;
+    margin-bottom: 5px;
+	}
+
+	.badge-con h5 {
+		color: #333;
+		font-size: 18px;
+		font-weight: 600 !important;
+		padding: 10px 0px 0px 0px;
+	}
+	.badge-info-btm h2{
+		font-weight: 600 !important;
+		color: #333;
+		line-height: 1.4;
+		font-size: 24px;
+	}
+	.star-ul{
+		display: flex;
+	}
+	.guided-inn{
+		display: flex;
+	}
+
+	.badge-con p {
+		color: #333;
+		font-size: 15px;
+		line-height: 1.9;
+		font-weight: 500 !important;
+	}
+
+	.badge_benifits{
+		color: #333;
+		font-size: 15px;
+		line-height: 1.9;
+		font-weight: 500 !important;
+	}
+	.badge_benifits li{
+		font-weight: 500 !important;
+	}
+    .logo_divs{
+        height: 87px;
+    }
